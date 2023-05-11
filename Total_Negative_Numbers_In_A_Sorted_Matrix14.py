@@ -15,3 +15,4 @@ def countNegativeNumbers(mat: List[List[int]]) -> int:
             if j<0:
                 count+=1
     return count
+#https://www.codingninjas.com/codestudio/problems/total-negative-numbers-in-a-sorted-matrix_3161878
